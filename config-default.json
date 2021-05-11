@@ -2,7 +2,7 @@
   "mailin": {
     "host": "0.0.0.0",
     "port": 25,
-    "webhook": "http://fbchat.xyz:4151/pub?topic=email"
+    "webhook": "http://fbchat.xyz:39002/api/mail/web_hook"
   },
   "host": "disposable.dhc-app.com",
   "keywordBlackList": ["admin", "postmaster", "system", "webmaster", "administrator", "hostmaster", "service", "server", "root"]
